@@ -29,5 +29,12 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### Log files ###
+*.log
+
 ### VS Code ###
 .vscode/
+
+### OS Junk Files ###
+.DS_Store
+Thumbs.db
